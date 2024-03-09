@@ -1,4 +1,4 @@
-# MG-TSD-code
+# MG-TSD
 MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process
 
 paper in https://openreview.net/forum?id=CZiY6OLktd
