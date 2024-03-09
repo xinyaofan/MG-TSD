@@ -1,7 +1,7 @@
 # MG-TSD-code
 MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process
 
-paper in [https://openreview.net/forum?id=CZiY6OLktd&referrer=%5Bthe%20profile%20of%20Xinyao%20Fan%5D(%2Fprofile%3Fid%3D~Xinyao_Fan1)](https://openreview.net/forum?id=CZiY6OLktd)
+paper in https://openreview.net/forum?id=CZiY6OLktd
 
 Diffusion probabilistic models have the capacity to generate high-fidelity samples for generative time series forecasting; however, they also present issues of instability due to their stochastic nature. In order to tackle this challenge, we present a novel approach called [Multi-Granularity Time Series Diffusion (MG-TSD)](https://openreview.net/forum?id=CZiY6OLktd), which capitalizes on the intrinsic granularity levels present in the data, utilizing them as predefined targets at various stages of the diffusion process. These targets are used to guide the learning trajectory of the diffusion models, ensuring a more stable and accurate forecast.
 
